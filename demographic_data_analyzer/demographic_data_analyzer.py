@@ -60,4 +60,4 @@ def calculate_demographic_data():
         highest_earning_country_percentage,
         'top_IN_occupation': top_IN_occupation
     }
-calculate_demographic_data
+calculate_demographic_data()
